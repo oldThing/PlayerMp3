@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PlayerMp3</string>
+
+    <string name="song">歌曲</string>
+    <string name="singer">歌手</string>
+    <string name="album">专辑</string>
+
+
+    <string name="pause">暂停</string>
+    <string name="play">播放</string>
+    <string name="previous">上一首</string>
+    <string name="next">下一首</string>
+    <string name="continue_play">继续播放</string>
+
+    <string name="song_num">几首歌</string>
+
+
+</resources>

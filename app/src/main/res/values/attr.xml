@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ic_icon" format="reference"></attr>
+    <attr name="text" format="string"></attr>
+    <attr name="text_size" format="dimension"></attr>
+    <attr name="ic_color" format="color"></attr>
+
+    <declare-styleable name="cursorTab">
+        <attr name="ic_icon"></attr>
+        <attr name="text"></attr>
+        <attr name="text_size"></attr>
+        <attr name="ic_color"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+
+</resources>
